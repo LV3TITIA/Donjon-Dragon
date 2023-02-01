@@ -1,0 +1,41 @@
+Zaratan
+[ Zaratan ]
+Élémentaire de taille Gig, typiquement neutre
+Classe d'armure 21 (armure naturelle)
+Points de vie 307 (15d20 + 150)
+Vitesse 12 m, nage 12 m
+FOR
+30 (+10)DEX
+10 (+0)CON
+30 (+10)INT
+2 (-4)SAG
+21 (+5)CHA
+18 (+4)
+Jets de sauvegarde Sag +12, Cha +11
+Vulnérabilités aux dégâts tonnerre
+Résistances aux dégâts froid, feu, foudre ; contondant, perforant et tranchant d'attaques non magiques
+Immunités aux dégâts poison
+Immunités aux états épuisement, paralysé, pétrifié, empoisonné, étourdi
+Sens vision dans le noir 18 m, perception des vibrations 18 m, Perception passive 15
+Langues —
+Puissance 22 (41000 PX)     Bonus de maîtrise +7
+Résistance légendaire (3/jour).
+Monstre de siège.
+Actions
+Attaques multiples.
+Morsure.
+Piétinement
+Crachat de roche.
+Crachat de débris (Recharge 5–6).
+Actions bonus
+Mouvement de tremblement.
+Actions légendaires
+Piétinement.
+Déplacement.
+Crachat (coûte 2 actions).
+Rétraction (coûte 2 actions).
+Revitalisé (coûte 2 actions).
+Émergence (coûte 2 actions).
+Le bloc de stat complet de cette créature n'est pas disponible (non OGL).
+
+Monsters of the Multiverse
