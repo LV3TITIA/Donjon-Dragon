@@ -1,0 +1,6 @@
+Fosse
+Piège simple (niveau 1-4, menace modérée)
+Ce piège consiste en une fosse de 3 mètres de profondeur cachée sous une toile recouverte de feuilles et de branchages. Ce type de piège, utile pour bloquer l'entrée du repaire d'un monstre, a généralement des rebords étroits.
+Déclencheur. Quiconque marche sur la toile peut tomber dans la fosse.
+Effet. La créature qui déclenche le piège doit faire un jet de sauvegarde de Dextérité DD 10. En cas de succès, la créature se rattrape au rebord de la fosse, ou fait instinctivement un pas en arrière. Sinon, la créature tombe dans la fosse et subit 3 (1d6) dégâts contondants à cause de la chute.
+Désactivation. Un jet de Sagesse (Perception) DD 10 révèle la toile. Un rebord de 30 cm autour de la fosse permet de la traverser sans tomber.
