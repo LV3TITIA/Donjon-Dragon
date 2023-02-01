@@ -1,0 +1,29 @@
+Ulitharid
+[ Ulitharid ]
+Aberration (flagelleur mental) de taille G, typiquement loyal mauvais
+Classe d'armure 15 (cuirasse)
+Points de vie 127 (17d10 + 34)
+Vitesse 9 m
+FOR
+15 (+2)DEX
+12 (+1)CON
+15 (+2)INT
+21 (+5)SAG
+19 (+4)CHA
+21 (+5)
+Jets de sauvegarde Int +9, Sag +8, Cha +9
+Compétences Arcanes +9, Discrétion +5, Intuition +8, Perception +8
+Sens vision dans le noir 36 m, Perception passive 18
+Langues profond, commun des profondeurs, télépathie 3 kilomètres
+Puissance 9 (5000 PX)     Bonus de maîtrise +4
+Perception des créatures.
+Résistance à la magie.
+Relai psionique.
+Actions
+Tentacules.
+Extraction de cerveau.
+Explosion de l'esprit (Recharge 5-6).
+Incantation (psioniques).
+Le bloc de stat complet de cette créature n'est pas disponible (non OGL).
+
+Monsters of the Multiverse

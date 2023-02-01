@@ -1,0 +1,27 @@
+Pixie
+[ Pixie ]
+Fée de taille TP, neutre bon
+Classe d'armure 15
+Points de vie 1 (1d4 - 1)
+Vitesse 3 m, vol 9 m
+FOR
+2 (-4)DEX
+20 (+5)CON
+8 (-1)INT
+10 (+0)SAG
+14 (+2)CHA
+15 (+2)
+Compétences Discrétion +7, Perception +4
+Sens Perception passive 14
+Langues sylvestre
+Puissance 1/4 (50 PX)
+Résistance à la magie. La pixie a un avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
+
+Incantation innée. La caractéristique d'incantation innée de la pixie est le Charisme (jet de sauvegarde contre ses sorts DD 12). Elle peut lancer les sorts suivants de manière innée, mais n'a besoin que de poussière de pixie comme composante matérielle :
+
+À volonté : druidisme
+1/jour chacun : confusion, lumières dansantes, détection du mal et du bien, détection des pensées, dissipation de la magie, enchevêtrement, vol, force fantasmagorique, métamorphose, sommeil
+Actions
+Invisibilité supérieure. La pixie devient invisible par magie jusqu'à ce que sa concentration s'arrête (comme si elle se concentrait sur un sort). Tout l'équipement que la pixie porte ou transporte est également invisible.
+
+Monster Manual
