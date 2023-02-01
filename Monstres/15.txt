@@ -1,0 +1,35 @@
+Yuan-ti, chuchoteur des consciences
+[ Yuan-ti Mind Whisperer ]
+Monstruosité (occultiste) de taille M, typiquement neutre mauvais
+Classe d'armure 14 (armure naturelle)
+Points de vie 71 (13d8 + 13)
+Vitesse 9 m
+FOR
+16 (+3)DEX
+14 (+2)CON
+13 (+1)INT
+14 (+2)SAG
+14 (+2)CHA
+16 (+3)
+Jets de sauvegarde Sag +4, Cha +5
+Compétences Tromperie +5, Discrétion +4
+Immunités aux dégâts poison
+Immunités aux états empoisonné
+Sens vision dans le noir 36 m (traverse les ténèbres magiques), Perception passive 12
+Langues abyssal, commun, draconique
+Puissance 4 (1100 PX)     Bonus de maîtrise +2
+Vision de diable.
+Résistance à la magie.
+Bénédiction de Sseth.
+Actions
+Attaques multiples.
+Morsure.
+Cimeterre (forme de yuan-ti uniquement).
+Crocs spectraux.
+Incantation (forme de yuan-ti uniquement).
+Actions bonus
+Métamorphe.
+Le bloc de stat complet de cette créature n'est pas disponible (non OGL).
+
+Les chuchoteurs des consciences sont des yuan-ti malison lanceurs de sorts qui ont noué un pacte avec le dieu serpent Sseth, la Mort sibilante.
+Monsters of the Multiverse
