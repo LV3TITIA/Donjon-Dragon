@@ -5,9 +5,9 @@ Classe d'armure 21 (armure naturelle)
 Points de vie 307 (15d20 + 150)
 Vitesse 12 m, nage 12 m
 FOR
-30 (+10)DEX
+50 (+10)DEX
 10 (+0)CON
-30 (+10)INT
+60 (+10)INT
 2 (-4)SAG
 21 (+5)CHA
 18 (+4)
